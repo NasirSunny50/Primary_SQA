@@ -1,0 +1,44 @@
+<component name="libraryTable">
+  <library name="selenium-safari-driver-4.1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-safari-driver-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-devtools-v96-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-chromium-driver-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-opera-driver-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-java-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-firefox-driver-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-firefox-xpi-driver-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-ie-driver-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-devtools-v95-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-remote-driver-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-devtools-v85-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-edge-driver-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-chrome-driver-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-support-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-devtools-v97-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-json-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-http-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-api-4.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-api-4.1.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-chrome-driver-4.1.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-ie-driver-4.1.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-json-4.1.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-opera-driver-4.1.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-devtools-v96-4.1.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-support-4.1.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-chromium-driver-4.1.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-devtools-v85-4.1.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-edge-driver-4.1.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-remote-driver-4.1.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-http-4.1.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-safari-driver-4.1.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-devtools-v97-4.1.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-firefox-driver-4.1.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-firefox-xpi-driver-4.1.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../QA Software/Selenium/selenium-devtools-v95-4.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
